@@ -8,7 +8,7 @@ Multicast is also supported.
 You can install PyUDP using the following command:  
 
 ```bash
-pip install pyudp
+pip install git+https://github.com/takumi-nishimura/PyUDP.git
 ```
 
 ## Usage
