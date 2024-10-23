@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="takumi-nishimura",
     author_email="clp13218@nitech.jp",
-    url="https://github.com/yourusername/pyudp",
+    url="https://github.com/takumi-nishimura/PyUDP",
     packages=find_packages(),
     install_requires=[],
     classifiers=[
