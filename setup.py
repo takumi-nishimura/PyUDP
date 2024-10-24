@@ -1,8 +1,8 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="PyUDP",
-    version="0.1.0",
+    name="pyudp",
+    version="0.1.4",
     description="A simple wrapper for UDP communication in Python, with multicast support.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
